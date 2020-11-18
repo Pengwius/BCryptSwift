@@ -37,12 +37,14 @@ Swift 4.0 or higher.
 
 ## Installation
 
-BCryptSwift is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+BCryptSwift is available through [CocoaPods](http://cocoapods.org) and [Swift Package Manager](https://swift.org/package-manager/)
+To install via CocoaPods, simply add the following line to your Podfile:
 
 ```ruby
 pod "BCryptSwift"
 ```
+
+To install via Swift Package Manager, use `https://github.com/felipeflorencio/BCryptSwift.git` as the URL and use the `.branch("master")` tag.
 
 ## Roadmap
 
